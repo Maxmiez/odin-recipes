@@ -1,1 +1,2 @@
 # odin-recipes
+This is the final project from the HTML foundations section of odin project. During this project i learned the basics of working with html. This website is the result of me using everything i learned thus far.
